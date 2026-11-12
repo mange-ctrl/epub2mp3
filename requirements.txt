@@ -1,0 +1,7 @@
+﻿# EPUB -> MP3. Python 3.13 on Windows.
+edge-tts>=6.1
+mutagen>=1.47
+lameenc>=1.7
+numpy>=1.26
+soundfile>=0.12
+pywin32>=306 ; sys_platform == "win32"
